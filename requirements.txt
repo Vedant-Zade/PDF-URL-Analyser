@@ -1,0 +1,10 @@
+streamlit
+requests
+sentence-transformers  
+faiss-cpu               # or faiss-gpu if CUDA is available
+numpy                  
+torch                
+PyPDF2
+beautifulsoup4
+pylint
+black
